@@ -71,3 +71,4 @@ nltk.download("vader_lexicon")
 
 ## Wordcloud Examples
 
+![](/assets/wordcloud.jpg)
