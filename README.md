@@ -72,3 +72,10 @@ nltk.download("vader_lexicon")
 ## Wordcloud Examples
 
 ![](/assets/wordcloud.jpg)
+
+- Top positive words: ['best' 'amazing' 'thank' 'great' 'love' 'perfect' 'wonderful' 'excellent'
+ 'useful' 'thanks' 'good' 'awesome' 'easy' 'status' 'messenger']
+ 
+- Top negative words: ['worst' 'connecting' 'useless' 'bad' 'pathetic' 'even' 'update' 'code'
+ 'anymore' 'stupid' 'irritating' 'disappointed' 'suck' 'install'
+ 'internet']
